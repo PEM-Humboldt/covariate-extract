@@ -31,7 +31,7 @@ Once you have installed R and the packages, the routine will show you a method t
 
 # Authors
 
-1. Susana Rodróiguez Buriticá
+1. Susana Rodríguez Buriticá
 2. Luis Hernando Romero Jiménez 
 
 # License
